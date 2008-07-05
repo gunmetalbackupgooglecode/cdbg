@@ -1,0 +1,24 @@
+#pragma once
+
+CMDHANDLER (exit);
+CMDHANDLER (attach);
+CMDHANDLER (detach);
+CMDHANDLER (ver);
+CMDHANDLER (tasklist);
+CMDHANDLER (window);
+CMDHANDLER (process);
+CMDHANDLER (thread);
+CMDHANDLER (taskkill);
+CMDHANDLER (bp);
+CMDHANDLER (c);
+CMDHANDLER (help);
+CMDHANDLER (hw);
+CMDHANDLER (run);
+CMDHANDLER (kill);
+CMDHANDLER (u);
+CMDHANDLER (showdisp);
+CMDHANDLER (t);
+CMDHANDLER (s);
+CMDHANDLER (r);
+CMDHANDLER (dm);
+CMDHANDLER (e);
